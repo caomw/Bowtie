@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'Bowtie';
-	src:url('fonts/Bowtie.eot?vqc4am');
-	src:url('fonts/Bowtie.eot?vqc4am#iefix') format('embedded-opentype'),
-		url('fonts/Bowtie.woff2?vqc4am') format('woff2'),
-		url('fonts/Bowtie.ttf?vqc4am') format('truetype'),
-		url('fonts/Bowtie.woff?vqc4am') format('woff'),
-		url('fonts/Bowtie.svg?vqc4am#Bowtie') format('svg');
+	src:url('fonts/Bowtie.eot?w2mo4n');
+	src:url('fonts/Bowtie.eot?w2mo4n#iefix') format('embedded-opentype'),
+		url('fonts/Bowtie.woff2?w2mo4n') format('woff2'),
+		url('fonts/Bowtie.ttf?w2mo4n') format('truetype'),
+		url('fonts/Bowtie.woff?w2mo4n') format('woff'),
+		url('fonts/Bowtie.svg?w2mo4n#Bowtie') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -84,415 +84,427 @@ i {
 .bowtie-chevron-up:before {
 	content: "\e613";
 }
-.bowtie-clone:before {
+.bowtie-chevron-down-light:before {
 	content: "\e614";
 }
-.bowtie-clone-to-desktop:before {
+.bowtie-chevron-left-light:before {
 	content: "\e615";
 }
-.bowtie-cloud:before {
+.bowtie-chevron-right-light:before {
 	content: "\e616";
 }
-.bowtie-comment:before {
+.bowtie-chevron-up-light:before {
 	content: "\e617";
 }
-.bowtie-comment-add:before {
+.bowtie-clone:before {
 	content: "\e618";
 }
-.bowtie-comment-discussion:before {
+.bowtie-clone-to-desktop:before {
 	content: "\e619";
 }
-.bowtie-comment-lines:before {
+.bowtie-cloud:before {
 	content: "\e61a";
 }
-.bowtie-comment-next:before {
+.bowtie-comment:before {
 	content: "\e61b";
 }
-.bowtie-comment-outline:before {
+.bowtie-comment-add:before {
 	content: "\e61c";
 }
-.bowtie-comment-previous:before {
+.bowtie-comment-discussion:before {
 	content: "\e61d";
 }
-.bowtie-comment-urgent:before {
+.bowtie-comment-lines:before {
 	content: "\e61e";
 }
-.bowtie-dashboard:before {
+.bowtie-comment-next:before {
 	content: "\e61f";
 }
-.bowtie-database:before {
+.bowtie-comment-outline:before {
 	content: "\e620";
 }
-.bowtie-diff-image:before {
+.bowtie-comment-previous:before {
 	content: "\e621";
 }
-.bowtie-diff-image-overlay:before {
+.bowtie-comment-urgent:before {
 	content: "\e622";
 }
-.bowtie-diff-image-pixel:before {
+.bowtie-dashboard:before {
 	content: "\e623";
 }
-.bowtie-diff-inline:before {
+.bowtie-database:before {
 	content: "\e624";
 }
-.bowtie-diff-side-by-side:before {
+.bowtie-diff-image:before {
 	content: "\e625";
 }
-.bowtie-dot:before {
+.bowtie-diff-image-overlay:before {
 	content: "\e626";
 }
-.bowtie-edit:before {
+.bowtie-diff-image-pixel:before {
 	content: "\e627";
 }
-.bowtie-edit-copy:before {
+.bowtie-diff-inline:before {
 	content: "\e628";
 }
-.bowtie-edit-cut:before {
+.bowtie-diff-side-by-side:before {
 	content: "\e629";
 }
-.bowtie-edit-delete:before {
+.bowtie-dot:before {
 	content: "\e62a";
 }
-.bowtie-edit-paste:before {
+.bowtie-edit:before {
 	content: "\e62b";
 }
-.bowtie-edit-redo:before {
+.bowtie-edit-copy:before {
 	content: "\e62c";
 }
-.bowtie-edit-remove:before {
+.bowtie-edit-cut:before {
 	content: "\e62d";
 }
-.bowtie-edit-rename:before {
+.bowtie-edit-delete:before {
 	content: "\e62e";
 }
-.bowtie-edit-undo:before {
+.bowtie-edit-paste:before {
 	content: "\e62f";
 }
-.bowtie-editor-list-bullet:before {
+.bowtie-edit-redo:before {
 	content: "\e630";
 }
-.bowtie-ellipsis:before {
+.bowtie-edit-remove:before {
 	content: "\e631";
 }
-.bowtie-ellipsis-vertical:before {
+.bowtie-edit-rename:before {
 	content: "\e632";
 }
-.bowtie-favorite:before {
+.bowtie-edit-undo:before {
 	content: "\e633";
 }
-.bowtie-favorite-outline:before {
+.bowtie-editor-list-bullet:before {
 	content: "\e634";
 }
-.bowtie-feedback-negative:before {
+.bowtie-ellipsis:before {
 	content: "\e635";
 }
-.bowtie-feedback-positive:before {
+.bowtie-ellipsis-vertical:before {
 	content: "\e636";
 }
-.bowtie-file:before {
+.bowtie-favorite:before {
 	content: "\e637";
 }
-.bowtie-file-code:before {
+.bowtie-favorite-outline:before {
 	content: "\e638";
 }
-.bowtie-file-comment:before {
+.bowtie-feedback-negative:before {
 	content: "\e639";
 }
-.bowtie-file-content:before {
+.bowtie-feedback-positive:before {
 	content: "\e63a";
 }
-.bowtie-file-image:before {
+.bowtie-file:before {
 	content: "\e63b";
 }
-.bowtie-file-preview:before {
+.bowtie-file-code:before {
 	content: "\e63c";
 }
-.bowtie-file-symlink:before {
+.bowtie-file-comment:before {
 	content: "\e63d";
 }
-.bowtie-fold-less:before {
+.bowtie-file-content:before {
 	content: "\e63e";
 }
-.bowtie-fold-more:before {
+.bowtie-file-image:before {
 	content: "\e63f";
 }
-.bowtie-folder:before {
+.bowtie-file-preview:before {
 	content: "\e640";
 }
-.bowtie-git:before {
+.bowtie-file-symlink:before {
 	content: "\e641";
 }
-.bowtie-heartbeat:before {
+.bowtie-fold-less:before {
 	content: "\e642";
 }
-.bowtie-install:before {
+.bowtie-fold-more:before {
 	content: "\e643";
 }
-.bowtie-link:before {
+.bowtie-folder:before {
 	content: "\e644";
 }
-.bowtie-logo-visual-studio:before {
+.bowtie-git:before {
 	content: "\e645";
 }
-.bowtie-logo-windows:before {
+.bowtie-heartbeat:before {
 	content: "\e646";
 }
-.bowtie-mail-message:before {
+.bowtie-install:before {
 	content: "\e647";
 }
-.bowtie-math-minus:before {
+.bowtie-link:before {
 	content: "\e648";
 }
-.bowtie-math-minus-box:before {
+.bowtie-logo-visual-studio:before {
 	content: "\e649";
 }
-.bowtie-math-minus-circle:before {
+.bowtie-logo-windows:before {
 	content: "\e64a";
 }
-.bowtie-math-multiply:before {
+.bowtie-mail-message:before {
 	content: "\e64b";
 }
-.bowtie-math-plus:before {
+.bowtie-math-minus:before {
 	content: "\e64c";
 }
-.bowtie-math-plus-box:before {
+.bowtie-math-minus-box:before {
 	content: "\e64d";
 }
-.bowtie-math-plus-circle:before {
+.bowtie-math-minus-circle:before {
 	content: "\e64e";
 }
-.bowtie-math-plus-heavy:before {
+.bowtie-math-multiply:before {
 	content: "\e64f";
 }
-.bowtie-media-play:before {
+.bowtie-math-plus:before {
 	content: "\e650";
 }
-.bowtie-menu:before {
+.bowtie-math-plus-box:before {
 	content: "\e651";
 }
-.bowtie-navigate-back-circle:before {
+.bowtie-math-plus-circle:before {
 	content: "\e652";
 }
-.bowtie-navigate-back-disc:before {
+.bowtie-math-plus-heavy:before {
 	content: "\e653";
 }
-.bowtie-navigate-close:before {
-	content: "\e900";
-}
-.bowtie-navigate-external:before {
+.bowtie-media-play:before {
 	content: "\e654";
 }
-.bowtie-navigate-forward-circle:before {
+.bowtie-menu:before {
 	content: "\e655";
 }
-.bowtie-navigate-forward-disc:before {
+.bowtie-navigate-back-circle:before {
 	content: "\e656";
 }
-.bowtie-navigate-history:before {
+.bowtie-navigate-back-disc:before {
 	content: "\e657";
 }
-.bowtie-navigate-refresh:before {
+.bowtie-navigate-close:before {
 	content: "\e658";
 }
-.bowtie-navigate-reload:before {
+.bowtie-navigate-external:before {
 	content: "\e659";
 }
-.bowtie-package:before {
+.bowtie-navigate-forward-circle:before {
 	content: "\e65a";
 }
-.bowtie-pin:before {
+.bowtie-navigate-forward-disc:before {
 	content: "\e65b";
 }
-.bowtie-repo:before {
+.bowtie-navigate-history:before {
 	content: "\e65c";
 }
-.bowtie-repo-git:before {
+.bowtie-navigate-refresh:before {
 	content: "\e65d";
 }
-.bowtie-repo-tfvc:before {
+.bowtie-navigate-reload:before {
 	content: "\e65e";
 }
-.bowtie-repository:before {
+.bowtie-package:before {
 	content: "\e65f";
 }
-.bowtie-repository-submodule:before {
+.bowtie-pin:before {
 	content: "\e660";
 }
-.bowtie-save:before {
+.bowtie-repo:before {
 	content: "\e661";
 }
-.bowtie-search:before {
+.bowtie-repo-git:before {
 	content: "\e662";
 }
-.bowtie-search-filter:before {
+.bowtie-repo-tfvc:before {
 	content: "\e663";
 }
-.bowtie-security:before {
+.bowtie-repository:before {
 	content: "\e664";
 }
-.bowtie-security-access:before {
+.bowtie-repository-submodule:before {
 	content: "\e665";
 }
-.bowtie-security-lock:before {
+.bowtie-save:before {
 	content: "\e666";
 }
-.bowtie-security-unlock:before {
+.bowtie-search:before {
 	content: "\e667";
 }
-.bowtie-separator:before {
+.bowtie-search-filter:before {
 	content: "\e668";
 }
-.bowtie-settings-gear:before {
+.bowtie-security:before {
 	content: "\e669";
 }
-.bowtie-settings-wrench:before {
+.bowtie-security-access:before {
 	content: "\e66a";
 }
-.bowtie-share:before {
+.bowtie-security-lock:before {
 	content: "\e66b";
 }
-.bowtie-shop:before {
+.bowtie-security-unlock:before {
 	content: "\e66c";
 }
-.bowtie-social-facebook:before {
+.bowtie-separator:before {
 	content: "\e66d";
 }
-.bowtie-social-twitter:before {
+.bowtie-settings-gear:before {
 	content: "\e66e";
 }
-.bowtie-sort-ascending:before {
+.bowtie-settings-wrench:before {
 	content: "\e66f";
 }
-.bowtie-sort-descending:before {
+.bowtie-share:before {
 	content: "\e670";
 }
-.bowtie-square:before {
+.bowtie-shop:before {
 	content: "\e671";
 }
-.bowtie-status-error:before {
+.bowtie-social-facebook:before {
 	content: "\e672";
 }
-.bowtie-status-failure:before {
+.bowtie-social-twitter:before {
 	content: "\e673";
 }
-.bowtie-status-help:before {
+.bowtie-sort-ascending:before {
 	content: "\e674";
 }
-.bowtie-status-info:before {
+.bowtie-sort-descending:before {
 	content: "\e675";
 }
-.bowtie-status-info-outline:before {
+.bowtie-square:before {
 	content: "\e676";
 }
-.bowtie-status-success:before {
+.bowtie-status-error:before {
 	content: "\e677";
 }
-.bowtie-status-waiting:before {
+.bowtie-status-failure:before {
 	content: "\e678";
 }
-.bowtie-status-warning:before {
+.bowtie-status-help:before {
 	content: "\e679";
 }
-.bowtie-switch:before {
+.bowtie-status-info:before {
 	content: "\e67a";
 }
-.bowtie-tag:before {
+.bowtie-status-info-outline:before {
 	content: "\e67b";
 }
-.bowtie-tfvc-branch:before {
+.bowtie-status-success:before {
 	content: "\e67c";
 }
-.bowtie-tfvc-branch-locked:before {
+.bowtie-status-waiting:before {
 	content: "\e67d";
 }
-.bowtie-tfvc-change-list:before {
+.bowtie-status-warning:before {
 	content: "\e67e";
 }
-.bowtie-tfvc-commit:before {
+.bowtie-switch:before {
 	content: "\e67f";
 }
-.bowtie-tfvc-compare:before {
+.bowtie-tag:before {
 	content: "\e680";
 }
-.bowtie-tfvc-merge:before {
+.bowtie-tfvc-branch:before {
 	content: "\e681";
 }
-.bowtie-tfvc-pull-request:before {
+.bowtie-tfvc-branch-locked:before {
 	content: "\e682";
 }
-.bowtie-tfvc-raw-source:before {
+.bowtie-tfvc-change-list:before {
 	content: "\e683";
 }
-.bowtie-tfvc-repo:before {
+.bowtie-tfvc-commit:before {
 	content: "\e684";
 }
-.bowtie-tfvc-shelveset:before {
+.bowtie-tfvc-compare:before {
 	content: "\e685";
 }
-.bowtie-toggle-collapse:before {
+.bowtie-tfvc-merge:before {
 	content: "\e686";
 }
-.bowtie-toggle-collapse-all:before {
+.bowtie-tfvc-pull-request:before {
 	content: "\e687";
 }
-.bowtie-toggle-expand:before {
+.bowtie-tfvc-raw-source:before {
 	content: "\e688";
 }
-.bowtie-toggle-expand-all:before {
+.bowtie-tfvc-repo:before {
 	content: "\e689";
 }
-.bowtie-toggle-tree-collapsed:before {
+.bowtie-tfvc-shelveset:before {
 	content: "\e68a";
 }
-.bowtie-toggle-tree-expanded:before {
+.bowtie-toggle-collapse:before {
 	content: "\e68b";
 }
-.bowtie-transfer-download:before {
+.bowtie-toggle-collapse-all:before {
 	content: "\e68c";
 }
-.bowtie-transfer-upload:before {
+.bowtie-toggle-expand:before {
 	content: "\e68d";
 }
-.bowtie-triangle-down:before {
+.bowtie-toggle-expand-all:before {
 	content: "\e68e";
 }
-.bowtie-triangle-left:before {
+.bowtie-toggle-tree-collapsed:before {
 	content: "\e68f";
 }
-.bowtie-triangle-right:before {
+.bowtie-toggle-tree-expanded:before {
 	content: "\e690";
 }
-.bowtie-triangle-up:before {
+.bowtie-transfer-download:before {
 	content: "\e691";
 }
-.bowtie-user:before {
+.bowtie-transfer-upload:before {
 	content: "\e692";
 }
-.bowtie-users:before {
+.bowtie-triangle-down:before {
 	content: "\e693";
 }
-.bowtie-view-full-screen:before {
+.bowtie-triangle-left:before {
 	content: "\e694";
 }
-.bowtie-view-full-screen-exit:before {
+.bowtie-triangle-right:before {
 	content: "\e695";
 }
-.bowtie-view-list:before {
+.bowtie-triangle-up:before {
 	content: "\e696";
 }
-.bowtie-view-list-group:before {
+.bowtie-user:before {
 	content: "\e697";
 }
-.bowtie-view-list-tree:before {
+.bowtie-users:before {
 	content: "\e698";
 }
-.bowtie-watch-eye:before {
+.bowtie-view-full-screen:before {
 	content: "\e699";
 }
-.bowtie-work-item:before {
+.bowtie-view-full-screen-exit:before {
 	content: "\e69a";
 }
-.bowtie-work-item-bar:before {
+.bowtie-view-list:before {
 	content: "\e69b";
+}
+.bowtie-view-list-group:before {
+	content: "\e69c";
+}
+.bowtie-view-list-tree:before {
+	content: "\e69d";
+}
+.bowtie-watch-eye:before {
+	content: "\e69e";
+}
+.bowtie-work-item:before {
+	content: "\e69f";
+}
+.bowtie-work-item-bar:before {
+	content: "\e6a0";
 }
 
